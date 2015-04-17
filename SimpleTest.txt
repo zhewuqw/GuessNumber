@@ -1,0 +1,32 @@
+Hello, what is your name?zhewu
+Hello, zhewu! Let's play a game!
+Think of random number form 1 to 100, and I will try to guess it!
+Is it : 50 ?(yes or no)
+no
+Is it larger than  50 ?(yes or no)
+yes
+Is it : 75 ?(yes or no)
+no
+Is it larger than  75 ?(yes or no)
+yes
+Is it : 88 ?(yes or no)
+no
+Is it larger than  88 ?(yes or no)
+no
+Is it : 81 ?(yes or no)
+no
+Is it larger than  81 ?(yes or no)
+yes
+Is it : 84 ?(yes or no)
+no
+Is it larger than  84 ?(yes or no)
+no
+Is it : 82 ?(yes or no)
+no
+Is it larger than  82 ?(yes or no)
+yes
+Is it : 83 ?(yes or no)
+yes
+yeah! I got it in  7 times
+Do you want to play again (Yes or no)no
+Thanks for playing, Bye-bye
